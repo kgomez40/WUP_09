@@ -142,6 +142,8 @@ According to the graph, for the best model, the Adjusted R-squared is 0.8391
 
 ## Final Summary Statements
 
+The regression models from most to least is Height & Width (perch), Length3 & Length1 (pike), and Width & Length3 (roach)
+
 ## Discussion & Conclusion
 
-Among these models, we found that the best ...
+You rate how good a regression model is by the value of Adjusted R-squared. Therefore, among these models, we found that the best Adjusted R-squared is 0.94 from perch, with the best two variables being Height & Width. Pike follows with an Adjusted R-Squred of 0.86, and the best two variables being Length3 & Length1. Lastly is roach with the Adjusted R-Squared of 0.34, and the best two variables being Width & Length3.
